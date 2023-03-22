@@ -20,7 +20,7 @@
 <h2>🤳 Let's chat:</h2>
 
 [<img align="left" alt="Hjalmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hjalmar | Substack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/substack.svg" />][substack]
+[<img align="left" alt="Hjalmar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/hjalmardev
-[substack]: https://hjalmardev.substack.com/
+[youtube]: https://youtube.com/
