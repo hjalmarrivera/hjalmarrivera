@@ -11,7 +11,7 @@
 <h2>🛜 IT Projects</h2>
 
 - <b>Microsoft Azure</b>
-  - [Implementing a Help Desk Ticketing System (osTicket) with Virtual Machines](https://github.com/hjalmardev/osticket-prereqs)
+  - [Implementing a Help Desk Ticketing System (osTicket) With Virtual Machines](https://github.com/hjalmardev/osticket-prereqs)
 
 <h2>✉️ Let's chat:</h2>
 
