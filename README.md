@@ -1,19 +1,20 @@
-<h1>Hi, I'm Hjalmar, an <a href="https://linkedin.com/in/hjalmardev">IT Professional</a>☺</h1>
+<h1>Hi, I'm Hjalmar, a <a href="https://linkedin.com/in/hjalmardev">Software Engineer</a>👨‍💻</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>🖥️ Software Projects</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/hjalmardev/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/hjalmardev/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/hjalmardev/ticket-lifecycle)
+- <b>HTML/CSS</b>
+  - [Developing a Climate Change Website Completely from Scratch](https://github.com/hjalmardev/climate-site)
+  - [Designing a Minimalist Business Card Website](https://github.com/hjalmardev/smallbusiness-site)
+- <b>PHP</b>
+  - [Building a Personal Portfolio Site with Support for Dynamic Content](https://github.com/hjalmardev/portfolio-site)
+
+<h2>🛜 IT Projects</h2>
+
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/hjalmardev/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hjalmardev/azure-network-protocols)
+  - [Implementing a Help Desk Ticketing System (osTicket) with Virtual Machines](https://github.com/hjalmardev/osticket-prereqs)
 
-<h2>🤳 Let's chat:</h2>
+<h2>✉️ Let's chat:</h2>
 
 [<img align="left" alt="Hjalmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hjalmar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/hjalmardev
-[youtube]: https://youtube.com/
