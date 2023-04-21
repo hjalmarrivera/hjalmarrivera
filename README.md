@@ -6,7 +6,7 @@
   - [Developing a Website for a Climate Change Company From Scratch](https://github.com/hjalmardev/climate-site)
   - [Designing a Minimalist Business Card Site](https://github.com/hjalmardev/smallbusiness-site)
 - <b>PHP</b>
-  - [Building a Personal Portfolio Site with Support for Dynamic Content](https://github.com/hjalmardev/portfolio-site)
+  - [Building a Personal Portfolio Site With Support for Dynamic Content](https://github.com/hjalmardev/portfolio-site)
 
 <h2>🛜 IT Projects</h2>
 
