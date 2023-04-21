@@ -3,8 +3,8 @@
 <h2>🖥️ Software Projects</h2>
 
 - <b>HTML/CSS</b>
-  - [Developing a Climate Change Website Completely from Scratch](https://github.com/hjalmardev/climate-site)
-  - [Designing a Minimalist Business Card Website](https://github.com/hjalmardev/smallbusiness-site)
+  - [Developing a Website for a Climate Change Company From Scratch](https://github.com/hjalmardev/climate-site)
+  - [Designing a Minimalist Business Card Site](https://github.com/hjalmardev/smallbusiness-site)
 - <b>PHP</b>
   - [Building a Personal Portfolio Site with Support for Dynamic Content](https://github.com/hjalmardev/portfolio-site)
 
