@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hjalmar, a <a href="https://linkedin.com/in/hjalmardev">Software Developer</a>👨‍💻</h1>
+<h1>Hi, I'm Hjalmar, a <a href="https://linkedin.com/in/hjalmarrivera">Software Developer</a>👨‍💻</h1>
 
 <h2>🖥️ Software Projects</h2>
 
