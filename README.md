@@ -3,15 +3,15 @@
 <h2>🖥️ Software Projects</h2>
 
 - <b>HTML/CSS</b>
-  - [Developing a Website for a Climate Change Company From Scratch](https://github.com/hjalmardev/climate-site)
-  - [Designing a Minimalist Business Card Site For a Decor Service](https://github.com/hjalmardev/smallbusiness-site)
+  - [Developing a Website for a Climate Change Company From Scratch](https://github.com/hjalmarrivera/climate-site)
+  - [Designing a Minimalist Business Card Site For a Decor Service](https://github.com/hjalmarrivera/smallbusiness-site)
 - <b>PHP</b>
-  - [Building a Personal Portfolio Site With Support for Dynamic Content](https://github.com/hjalmardev/portfolio-site)
+  - [Building a Personal Portfolio Site With Support for Dynamic Content](https://github.com/hjalmarrivera/portfolio-site)
 
 <h2>🛜 IT Projects</h2>
 
 - <b>Microsoft Azure</b>
-  - [Implementing a Help Desk Ticketing System (osTicket) With Virtual Machines](https://github.com/hjalmardev/osticket-prereqs)
+  - [Implementing a Help Desk Ticketing System (osTicket) With Virtual Machines](https://github.com/hjalmarrivera/osticket-prereqs)
 
 <h2>✉️ Let's chat:</h2>
 
