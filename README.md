@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hjalmar, a <a href="https://linkedin.com/in/hjalmardev">Software Engineer</a>👨‍💻</h1>
+<h1>Hi, I'm Hjalmar, a <a href="https://linkedin.com/in/hjalmardev">Software Developer</a>👨‍💻</h1>
 
 <h2>🖥️ Software Projects</h2>
 
@@ -17,4 +17,4 @@
 
 [<img align="left" alt="Hjalmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/hjalmardev
+[linkedin]: https://linkedin.com/in/hjalmarrivera
